@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shirahatti.sanchaya.net/sitemap.xml
